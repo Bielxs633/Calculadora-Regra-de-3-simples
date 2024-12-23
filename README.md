@@ -12,13 +12,14 @@ Este projeto é uma **Calculadora de Regra de 3 Simples**. A ferramenta permite 
 ---
 
 ## Funcionalidades
-- **Cálculo automático**: Insira os valores conhecidos, e a calculadora retorna o valor da incógnita.
-- **Interface intuitiva**: Fácil de usar, com entrada e exibição de resultados claros.
+1. **Cálculo automático**: Insira os valores conhecidos, e a calculadora retorna o valor da incógnita.
+2. **Interface intuitiva**: Fácil de usar, com entrada e exibição de resultados claros.
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
